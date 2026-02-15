@@ -120,7 +120,7 @@ Proof of Exploitation:
 Figure 1: Payload entered in search box.
 
 
-![Proof of Successful XSS Exploitation]()
+![Proof of Successful XSS Exploitation](https://github.com/venu-maxx/PortSwigger-XSS-Lab-1/blob/798a75b484c82ef0b21388c87e48ca5ea06a8a76/Portswigger%20XSS%20Lab%201%20success%20.png)
 
 Figure 2: JavaScript alert(1) executed successfully.
 
